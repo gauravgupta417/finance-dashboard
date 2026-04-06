@@ -82,7 +82,7 @@ src/
 ### Auth
 
 * `POST /api/users/register`
-* `POST /api/users/login` (you will get token after login pass this token in headers as Authorization: <token> for accessing authenticated routes)
+* `POST /api/users/login` (you will get token after login pass this token in headers as Authorization: `<token>` for accessing authenticated routes)
 
 ### User Management (Admin Only)
 
